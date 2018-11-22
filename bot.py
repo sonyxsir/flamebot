@@ -3,7 +3,7 @@ import telebot
 
 print('FlameBot started...')
 
-TOKEN = '470333755:AAEZan5MbJTgx0OQso2QN0T-qL0VIXq48sE'
+TOKEN = ''
 bot = telebot.TeleBot(TOKEN)
 
 groanings = ( 'I’ll give you a winter prediction: It’s gonna be cold, it’s gonna be grey, and it’s gonna last you for the rest of your life (с)',
