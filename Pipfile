@@ -8,7 +8,6 @@ name = "pypi"
 [packages]
 
 pytelegrambotapi = "==2.2.3"
-"beautifulsoup4" = "*"
 
 
 [dev-packages]
